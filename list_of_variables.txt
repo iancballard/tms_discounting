@@ -1,0 +1,17 @@
+sub: Subject code.
+
+cond: Discounting condition. “Hidden Zero” means that choices were framed with explicit zeros, for example, “$5 now and $0 later or $0 now and $20 in 14 days”. “Magnitude” refers to choices between large magnitudes, for example, $2,000 now or $2,140 in 14 days. “Ctrl” refers to standard discounting, for example, “$5 now or $20 in 14 days.
+
+stim: TMS condition. “Pre” refers to the pre-experiment baseline condition, ‘Sham’ refers to the Sham TMS control, and ‘TMS’ refers to data acquired after rTMS. All subjects had all three treatments. 
+
+hemi: Hemisphere of TMS treatment. Note that this is a between-subjects variable.
+
+trial: Trial number (starting at 0).
+
+amountSS: Amount in dollars of the shorter-sooner reward. Note that there were occasional catch trials where the sooner reward was larger.
+
+amountLL: Amount in dollars of the larger-later reward
+
+delayLL: Delay in days until the larger-later reward. Note that the shorter-sooner reward was always available immediately. 
+
+choice: “SS" means shorter-sooner choice, whereas “LL” means larger-later choice
